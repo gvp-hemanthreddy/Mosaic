@@ -1,0 +1,12 @@
+{
+  "author": "Canva",
+  "name": "mosaic",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
